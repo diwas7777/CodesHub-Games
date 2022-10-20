@@ -1,5 +1,7 @@
-# <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&multiline=true&width=500&height=80&lines=CodesHub+Games)](https://github.com/diwas777777/CodesHub)</div>
-This open source project is made to encourage developers to make games and showcase it to the world.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&multiline=true&width=500&height=80&lines=CodesHub-Games" />
+<p><i>This open source project is made to help share the games they made in different language for users to see and learn from.</i></p>
+</div>
 
 # Special Note For Everyone
 ```py
@@ -66,7 +68,9 @@ This open source project is made to encourage developers to make games and showc
 - This year, only the first 40,000 participants will recieve swags.
 ---
 
-# <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&multiline=true&width=800&height=100&lines=Hacktoberfest+2022+Holopin+Badge)](https://hacktoberfest.com/)</div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&multiline=true&width=800&height=100&lines=Hacktoberfest+2022+Holopin+Badge" />
+</div>
 
 [![@diwas7777's Holopin board](https://holopin.me/diwas7777)](https://holopin.io/@diwas7777)
 
