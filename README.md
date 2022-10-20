@@ -15,7 +15,9 @@
     Happy Hacking
 '''
 ```
-# <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&multiline=true&width=535&height=80&lines=Hacktoberfest+2022+🎉)](https://hacktoberfest.com)</div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&multiline=true&width=535&height=80&lines=Hacktoberfest+2022+🎉" />
+</div>
 
 <div align="center">
   
